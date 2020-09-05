@@ -1,0 +1,106 @@
+*{
+	margin: 0;
+	padding: 0;
+ }
+
+ .ocultar{
+ 	visibility: hidden;
+ }
+
+.tb-periodica{
+	
+	text-align: center;
+	width:1200px;
+	height: 700px; 
+	margin: 20px 20px;
+	background-color: #ccc;
+}
+
+li{
+	padding: 0px;
+	margin-top: 2px;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	border: 1px solid black;
+	text-decoration: none;
+	color: white;
+	transition: all .4s ease-in;
+}
+
+#H{
+	background-color: azure;
+	color: black;
+}
+
+.metais{
+	background-color: crimson
+}
+
+.ametais{
+	background-color: rgb(7, 204, 23);
+}
+
+.semimetais{
+	background-color: rgb(240, 240, 16);
+}
+
+.gasesNobres{
+	background-color: rgb(72, 72, 255);
+}
+
+li:hover {
+	transform: scale(2.5);
+}
+span:hover{
+	opacity: 1;
+}
+
+.hoz-vet :hover{
+transition: none;
+transform: none;
+}
+
+li.hoz-vet:hover{
+transition: none;
+transform: none;
+} 
+
+li.estatico:hover{
+	transition: none;
+	transform: none;	
+}
+
+.hoz-vet p{
+	margin: 0px;
+	padding: 0px;
+	text-align: auto;
+	font-size: 30px;
+	background-color: #ccc;
+	color: black;	
+}
+
+.elemento p{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+li span{
+	position: absolute;
+	bottom: 0px;
+	right: 3px;
+	height: 15px;
+	font-size: 10px;
+	margin: 0px;
+	line-height: -300px;
+	opacity: 0;
+}
+
+
+.serie-periodica{
+	margin-top: 20px;
+	margin-left: 110px;
+}
