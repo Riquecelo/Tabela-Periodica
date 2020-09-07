@@ -7,12 +7,19 @@
  	visibility: hidden;
  }
 
+ header{
+	 margin: 0;
+	 height: 100px;
+	 background-image: url(lab.jpg);
+	 background-position: 50% 50%;
+ }
+
 .tb-periodica{
 	
 	text-align: center;
 	width:1200px;
 	height: 700px; 
-	margin: 20px 20px;
+	margin: 5px 20px;
 	background-color: #ccc;
 }
 
