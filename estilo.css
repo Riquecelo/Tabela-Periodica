@@ -85,10 +85,6 @@ li:hover{
 	border: 1px solid black;	
 }
 
-span:hover{
-	opacity: 1;
-}
-
 .hoz-vet :hover{
 transition: none;
 transform: none;
@@ -130,16 +126,13 @@ li span{
 	height: 15px;
 	font-size: 10px;
 	margin: 0px;
-	line-height: -300px;
-	opacity: 0;
+	
 }
 
-#z{
+sup{
 	position: absolute;
-	text-align: left;
-	font-size: 15px;
-	margin: 0px;
-	padding: 0px;
+	right: 40px;
+	font-size: 10px;
 }
 
 .serie-periodica{
