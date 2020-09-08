@@ -12,6 +12,7 @@
 	 height: 100px;
 	 background-image: url(lab.jpg);
 	 background-position: 50% 50%;
+	 min-width: 1280px;
  }
 
  h1{
@@ -126,12 +127,11 @@ li span{
 	height: 15px;
 	font-size: 10px;
 	margin: 0px;
-	
 }
 
 sup{
 	position: absolute;
-	right: 40px;
+	right: 45px;
 	font-size: 10px;
 }
 
