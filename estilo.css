@@ -14,6 +14,15 @@
 	 background-position: 50% 50%;
  }
 
+ h1{
+	 font-size: 60px;
+	 text-align: center;
+	 padding-top: 30px;
+	 letter-spacing: 5px;
+	 color: white;
+	 background-color: rgba(0, 0, 0, 0.3);
+ }
+
 .tb-periodica{
 	
 	text-align: center;
@@ -71,9 +80,11 @@ li{
 	background-color: darkred;
 }
 
-li:hover {
-	transform: scale(2.5);
+li:hover{
+	transform: scale(3.5);
+	border: 1px solid black;	
 }
+
 span:hover{
 	opacity: 1;
 }
@@ -81,11 +92,13 @@ span:hover{
 .hoz-vet :hover{
 transition: none;
 transform: none;
+border: none;
 }
 
 li.hoz-vet:hover{
 transition: none;
 transform: none;
+border: none;
 } 
 
 li.estatico:hover{
@@ -121,6 +134,13 @@ li span{
 	opacity: 0;
 }
 
+#z{
+	position: absolute;
+	text-align: left;
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
+}
 
 .serie-periodica{
 	margin-top: 20px;
