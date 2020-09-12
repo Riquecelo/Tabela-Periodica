@@ -83,7 +83,7 @@ li{
 }
 
 li:hover{
-	transform: scale(2.5);
+	transform: scale(2.8);
 	border: 1px solid black;	
 }
 
@@ -124,13 +124,13 @@ li.estatico:hover{
 .nome{
 	right: 3px;
 	/*height: 15px;*/
-	font-size: 10px;
+	font-size: 9px;
 	margin-top: 2px;
 }
 
 .n{
 	right: 45px;
-	font-size: 10px;
+	font-size: 7px;
 }
 
 .serie-periodica{
