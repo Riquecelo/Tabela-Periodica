@@ -9,4 +9,4 @@
 ![imagem da tabela](https://github.com/Riquecelo/Tabela-Periodica/blob/master/tab-final.PNG)
 
 Veja o resultado<br>
-[Clique aqui](https://riquecelo.github.io/Tabela-Periodica/)
+[![](https://img.shields.io/badge/-CLIQUE%20AQUI!-blue)](https://riquecelo.github.io/Tabela-Periodica/)
